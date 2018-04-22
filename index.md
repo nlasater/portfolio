@@ -143,21 +143,21 @@ Licence URI: http://www.os-templates.com/template-terms
         <article><a href="#"><i class="icon btmspace-30 fa fa-language"></i></a>
           <h6 class="heading font-x1">Solus</h6>
           <p>A first-person puzzle and exploration game with an emphasis on discovery.</p>
-          <footer><a href="www.playsolus.com">Visit Site &raquo;</a></footer>
+          <footer><a href="http://www.playsolus.com">Visit Site &raquo;</a></footer>
         </article>
       </li>
       <li class="one_quarter">
         <article><a href="#"><i class="icon btmspace-30 fa fa-skyatlas"></i></a>
           <h6 class="heading font-x1">Surveillance State</h6>
           <p>A 2D in-browser game, using an engaging 2nd-person perspective</p>
-          <footer><a href="johann-spaulding.itch.io/surveillance-state">Play Game &raquo;</a></footer>
+          <footer><a href="https://johann-spaulding.itch.io/surveillance-state">Play Game &raquo;</a></footer>
         </article>
       </li>
       <li class="one_quarter">
         <article><a href="#"><i class="icon btmspace-30 fa fa-forumbee"></i></a>
           <h6 class="heading font-x1">EvoSim</h6>
           <p>An experiment in genetic algorithms to model population and virtual environments</p>
-          <footer><a href="github.com/nlasater/EvoSim">Read More &raquo;</a></footer>
+          <footer><a href="https://github.com/nlasater/EvoSim">Read More &raquo;</a></footer>
         </article>
       </li>
       <li class="one_quarter">
