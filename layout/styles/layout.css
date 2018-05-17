@@ -12,6 +12,14 @@ File: Layout CSS
 @import url("custom.flexslider.css");
 @import url("framework.css");
 
+/* CenterHeader:
+--------------------------------------------------------------------------------------------------------------- */
+#centralHeader {
+    text-align: center;
+    
+}
+
+
 /* Rows
 --------------------------------------------------------------------------------------------------------------- */
 .row1{border-bottom:1px solid;}

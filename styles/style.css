@@ -1,0 +1,163 @@
+@font-face {
+font-family: calligraphr;
+src: url('../assets/handwritten.tff');
+}
+
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Gothic A1', sans-serif;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  font-size: 3.0em;
+  background-color: papayawhip;
+  overflow: hidden;
+  
+}
+
+#aboutpage {
+    background-image: url("../assets/forest_bkgrd.gif");
+    background-size: cover;
+    font-family: 'Gothic A1', sans-serif;
+}
+
+#mainpage {
+    background-color: slateblue;
+}
+
+#resumepage {
+  text-align: center;
+}
+
+#hero {
+
+  height: 1200px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+#namehero {
+    padding-top: 300px;
+    font-size: 2.0em;
+    font-family: 'Kalam', cursive;
+    
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.zoom {
+    transition: transform .2s;
+    margin: 0 auto;
+}
+
+.zoom:hover {
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); 
+}
+
+/* The navigation bar */
+.navbar {
+    z-index: 5;
+    overflow: hidden;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    text-align: right;
+    font-family: 'Gothic A1', sans-serif;
+}
+
+/* Links inside the navbar */
+.navbar a {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding-right: 5%;
+    padding-top: 20px;
+    text-decoration: none;
+}
+
+.leftHeader {
+  float:left;
+  padding-left: 10%;
+  padding-top: 10%;
+  font-size: 4.0em;
+  font-family: 'Kalam', cursive;
+    
+  
+}
+
+.rightQuote {
+  float: right;
+  padding-right: 10%;
+  padding-top: 15%;
+  font-size: 1.0em;
+  width: 40%;
+  font-family: 'Kalam', cursive;
+  
+}
+
+.fixed {
+  position: fixed;
+}
+
+.Kalam {
+  font-family: 'Kalam', cursive;
+}
+
+#aboutscroll {
+  margin-top: 15%;
+  width: 100%;
+  height: 600px;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+
+.entry {
+  width: 50%;
+  padding-left: 10%;
+}
+
+.entrytop {
+  position: relative;
+  width: 50%;
+  padding-left: 10%;
+}
+::-webkit-scrollbar {
+    width: 0px;  /* remove scrollbar space */
+    background: transparent;  /* optional: just make scrollbar invisible */
+}
+
+.vert_center {
+    align-content: center;
+    text-align: center;
+}
+
+.container {
+  height: 50%;
+  width: 100%;
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  overflow: hidden;
+}
+
+
+h1 {
+  font-size: 1.5em;
+}
+
+p {
+  color: #ede0d5;
+  font-size: 0.8em;
+  line-height: 150%;
+}
+
+
